@@ -2,7 +2,7 @@
   "schema": "civic-privacy-cases/1.0",
   "metadata": {
     "title": "自治体AI・プライバシーアシュアランス PoC第2弾",
-    "note": "すべて架空。実住民情報・外部AI・実ネットワーク送信を使用しない。公表文・社名表示は最終確認前の暫定。"
+    "note": "すべて架空。実住民情報・外部AI・実ネットワーク送信を使用しない。"
   },
   "policy": {
     "id": "CIVIC-PRIVACY-DEMO-02",
